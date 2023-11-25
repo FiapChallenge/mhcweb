@@ -21,12 +21,44 @@
 
 <h2 name="sobre">📖 Sobre o Challenge</h2>
 
-| *Challenge 3*  |                                       |
-| -------------- | ------------------------------------- |
-| *Curso*        | Análise e Desenvolvimento de Sistemas |
-| *Disciplina*   | RESPONSIVE WEB DEVELOPMENT            |
-| *Professor*    | Alexandre Carlos de Jesus             |
-| *Turma*        | 1TDSS                                 |
+| _Challenge 3_ |                                         |
+| ------------- | --------------------------------------- |
+| _Curso_       | Análise e Desenvolvimento de Sistemas   |
+| _Disciplina_  | RESPONSIVE WEB DEVELOPMENT              |
+| _Professor_   | Alexandre Carlos de Jesus               |
+| _Turma_       | 1TDSS                                   |
+| _Vídeo_       | https://youtu.be/4mhnu89Gcz0            |
+| _GitHub_      | https://github.com/FiapChallenge/mhcweb |
+
+## Como rodar o projeto
+
+### Conta teste:
+
+<p>login: admin@admin</p>
+<p>senha: admin</p>
+
+### Pré-requisitos
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/FiapChallenge/mhcweb
+
+# Acesse a pasta do projeto
+$ cd mhcweb
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm run dev
+
+# O servidor inciará na porta:3000 se não estiver sendo utilizada - acesse http://localhost:3000
+
+```
+
+### API
+
+Link do repositório da API: https://github.com/FiapChallenge/MHC/tree/main/Python
 
 ## Requisitos
 
